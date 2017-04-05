@@ -1,0 +1,10 @@
+Package: kmod-usb2
+Version: 3.18.23-1
+Depends: kernel (=3.18.23-1-b2f200610f46d20ef52d269421369d0c), kmod-usb-core
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Status: unknown hold not-installed
+Architecture: ar71xx
+Installed-Size: 24708
+Description:  Kernel support for USB2 (EHCI) controllers

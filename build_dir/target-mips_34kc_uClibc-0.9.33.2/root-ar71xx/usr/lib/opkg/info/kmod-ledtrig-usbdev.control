@@ -1,0 +1,10 @@
+Package: kmod-ledtrig-usbdev
+Version: 3.18.23-1
+Depends: kernel (=3.18.23-1-b2f200610f46d20ef52d269421369d0c), kmod-usb-core
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Status: unknown hold not-installed
+Architecture: ar71xx
+Installed-Size: 2122
+Description:  Kernel module to drive LEDs based on USB device presence/activity

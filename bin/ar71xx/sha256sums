@@ -1,0 +1,14 @@
+SHA256(openwrt-15.05.1-ar71xx-generic-root.squashfs)= 41030a6ec34c7a859ae0c07b9a25bb44e93d7ae4ada56317eb618a425652c04f
+SHA256(openwrt-15.05.1-ar71xx-generic-root.squashfs-64k)= 9b8f70e471e0c0b7256456e82cb96d86cba687dab6979250163b6bd41ca73596
+SHA256(openwrt-15.05.1-ar71xx-generic-tl-mr3220-v1-squashfs-factory.bin)= d7162805c4178dd2ba1af9cfa7dc7b2f3bfac81b9f498d8269ec0dc152692e8f
+SHA256(openwrt-15.05.1-ar71xx-generic-tl-mr3220-v1-squashfs-sysupgrade.bin)= 40efdc0145457a862013cd7af8b4c9517a25efb89f572256e6dd9f464d466e5c
+SHA256(openwrt-15.05.1-ar71xx-generic-tl-mr3220-v2-squashfs-factory.bin)= b61af9869b2e043ee70180407c6a236dd9faf7d710c5fc42a4172c313473f3c9
+SHA256(openwrt-15.05.1-ar71xx-generic-tl-mr3220-v2-squashfs-sysupgrade.bin)= ea9f23fd9b85d6a2180b688c864ee3eebe48e36eb6188168ba7858fe7cc04d63
+SHA256(openwrt-15.05.1-ar71xx-generic-uImage-gzip.bin)= f0d26ef483e00e96f8066b0e24b9dbab97763b44ad3ae4d78c361cfbfdb383cd
+SHA256(openwrt-15.05.1-ar71xx-generic-uImage-lzma.bin)= 95a8d3ff1417b594d6c27bf1b96c174d2a6f1f986d98c3a15e1437de1b8f8031
+SHA256(openwrt-15.05.1-ar71xx-generic-vmlinux-lzma.elf)= df4fda004a42dd9be7965adaf9da831b05d50c39208828673142d9c120141057
+SHA256(openwrt-15.05.1-ar71xx-generic-vmlinux.bin)= ef168afd5bd43e1b6d809b038e73f269037bdba3b5388fbf36fb28fb059cb377
+SHA256(openwrt-15.05.1-ar71xx-generic-vmlinux.elf)= 6033f0db8fac75d32370d69860a61710a7811095efba538a98a5493f0bd1a9d6
+SHA256(openwrt-15.05.1-ar71xx-generic-vmlinux.gz)= 395ba46e3fa73ab8ea4fac2a03b5e20683bbd769249aa7859d4b4d89a1493fad
+SHA256(openwrt-15.05.1-ar71xx-generic-vmlinux.lzma)= faaf1bd1b8e4799934987f3a1af982aa462e8a44c595d97bc7366bd63e4f2418
+SHA256(sha256sums)= e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
