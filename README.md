@@ -11,8 +11,8 @@ cd OpenWrt-ImageBuilder-15.05.1-ar71xx-generic.Linux-x86_64
 ```
 
 Adding customizations (already done): 
- - modyfing Makefile to use of file_remove file
- - adding file_remove
+ - modyfing Makefile to use of files_remove file
+ - adding files_remove
  - adding configs
 
 Building (already done, but needed for further customizations): 
