@@ -23,7 +23,7 @@ make image PROFILE=TLMR3220 PACKAGES="kmod-usb-core kmod-usb2 usb-modeswitch lib
      FILES_REMOVE="files_remove" FILES=files/
 ```
 
-Links: 
-https://wiki.openwrt.org/doc/howto/obtain.firmware.generate 
-https://eko.one.pl/?p=openwrt-3g 
-http://eko.one.pl/forum/viewtopic.php?id=9836
+Links:<br>
+https://wiki.openwrt.org/doc/howto/obtain.firmware.generate <br>
+https://eko.one.pl/?p=openwrt-3g <br>
+http://eko.one.pl/forum/viewtopic.php?id=9836 <br>
