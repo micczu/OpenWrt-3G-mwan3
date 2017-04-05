@@ -9,6 +9,16 @@ wget https://downloads.openwrt.org/chaos_calmer/15.05.1/ar71xx/generic/OpenWrt-I
 tar -xvjf OpenWrt-ImageBuilder-15.05.1-ar71xx-generic.Linux-x86_64.tar.bz2
 cd OpenWrt-ImageBuilder-15.05.1-ar71xx-generic.Linux-x86_64
 ```
+Installing needed make dependencies:
+```
+apt-get install subversion build-essential libncurses5-dev zlib1g-dev gawk git ccache \
+                gettext libssl-dev xsltproc wget
+```
+or
+```
+yum install subversion git gawk gettext ncurses-devel zlib-devel openssl-devel libxslt wget
+yum group install "Development Tools"
+```
 
 Adding customizations (already done): 
  - modifying Makefile to use of files_remove file ([link](https://wiki.openwrt.org/doc/howto/obtain.firmware.generate#remove_useless_files_from_firmware))
